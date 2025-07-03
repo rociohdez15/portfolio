@@ -30,7 +30,7 @@ const Experience = () => {
         <article className="rounded-lg border border-[#E91E63] shadow-md hover:shadow-pink-civitatis transition-shadow duration-300">
           <header className="bg-[#E91E63] rounded-t-lg px-6 py-4">
             <h2 className="font-bold text-lg leading-tight text-white">
-              Desarrollador Backend - CRM Safebrok
+              Desarrolladora Backend - CRM Safebrok
             </h2>
             <div className="flex justify-between items-center text-white text-sm mt-1">
               <p className="font-semibold">Safebrok Consulting</p>
@@ -67,7 +67,7 @@ const Experience = () => {
         <article className="rounded-lg border border-[#E91E63] shadow-md hover:shadow-pink-civitatis transition-shadow duration-300">
           <header className="bg-[#E91E63] rounded-t-lg px-6 py-4">
             <h2 className="font-bold text-lg leading-tight text-white">
-              Desarrollador Web Fullstack - AlojaDirecto
+              Desarrolladora Web Fullstack - AlojaDirecto
             </h2>
             <div className="flex justify-between items-center text-white text-sm mt-1">
               <p className="font-semibold">Proyecto Integrado DAW</p>
@@ -105,7 +105,7 @@ const Experience = () => {
         <article className="rounded-lg border border-[#E91E63] shadow-md hover:shadow-pink-civitatis transition-shadow duration-300">
           <header className="bg-[#E91E63] rounded-t-lg px-6 py-4">
             <h2 className="font-bold text-lg leading-tight text-white">
-              Desarrollador Web Fullstack - Atalanta
+              Desarrolladora Web Fullstack - Atalanta
             </h2>
             <div className="flex justify-between items-center text-white text-sm mt-1">
               <p className="font-semibold">Freelance (Proyecto Familiar)</p>
