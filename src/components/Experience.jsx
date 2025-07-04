@@ -83,7 +83,7 @@ const Experience = () => {
                   href="https://alojadirecto.lovestoblog.com/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-pink-civitatis hover:underline text-xs mt-1"
+                  className="text-white hover:underline text-xs mt-1"
                 >
                   Ver proyecto
                 </a>
