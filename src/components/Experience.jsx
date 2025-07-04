@@ -34,13 +34,20 @@ const Experience = () => {
             </h2>
             <div className="flex justify-between items-center text-white text-sm mt-1">
               <p className="font-semibold">Safebrok Consulting</p>
-              <p className="italic text-sm font-light">Septiembre 2024 - Diciembre 2024</p>
+              <p className="italic text-sm font-light">
+                Septiembre 2024 - Diciembre 2024
+              </p>
             </div>
           </header>
           <div className="bg-[#12131a] rounded-b-lg px-6 py-5 text-white text-base leading-relaxed">
-            En Safebrok, tuve la oportunidad de desarrollar y mantener un CRM que realmente ayuda a las empresas a gestionar sus clientes, proyectos y tareas con total confianza.
-            Trabajé con Spring Boot y Spring Security, implementando JWT para una seguridad sólida, y combiné React para crear una interfaz moderna que facilita el día a día de los usuarios.
-            La base de datos integrada con MySQL y PostgreSQL me permitió manejar la información de forma eficiente y escalable, asegurando un rendimiento óptimo.
+            En Safebrok, tuve la oportunidad de desarrollar y mantener un CRM
+            que realmente ayuda a las empresas a gestionar sus clientes,
+            proyectos y tareas con total confianza. Trabajé con Spring Boot y
+            Spring Security, implementando JWT para una seguridad sólida, y
+            combiné React para crear una interfaz moderna que facilita el día a
+            día de los usuarios. La base de datos integrada con MySQL y
+            PostgreSQL me permitió manejar la información de forma eficiente y
+            escalable, asegurando un rendimiento óptimo.
             <div className="mt-6 flex flex-wrap gap-3">
               {[
                 "Spring Boot",
@@ -69,15 +76,32 @@ const Experience = () => {
             <h2 className="font-bold text-lg leading-tight text-white">
               Desarrolladora Web Fullstack - AlojaDirecto
             </h2>
-            <div className="flex justify-between items-center text-white text-sm mt-1">
-              <p className="font-semibold">Proyecto Integrado DAW</p>
-              <p className="italic text-sm font-light">Septiembre 2024 - Diciembre 2024</p>
+            <div className="flex justify-between items-start text-white text-sm mt-1">
+              <div className="flex flex-col">
+                <p className="font-semibold">Proyecto Integrado DAW</p>
+                <a
+                  href="https://alojadirecto.lovestoblog.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-pink-civitatis hover:underline text-xs mt-1"
+                >
+                  Ver proyecto
+                </a>
+              </div>
+              <p className="italic text-sm font-light">
+                Septiembre 2024 - Diciembre 2024
+              </p>
             </div>
           </header>
           <div className="bg-[#12131a] rounded-b-lg px-6 py-5 text-white text-base leading-relaxed">
-            AlojaDirecto fue un proyecto en el que puse en práctica mis habilidades fullstack desarrollando una aplicación para gestionar reservas y habitaciones de hoteles.
-            Me encargué del backend en Laravel y del frontend con Vue.js, buscando siempre optimizar la experiencia del usuario y garantizar un flujo sencillo para la gestión diaria.
-            Implementé funcionalidades claves como control de disponibilidad, facturación y servicios adicionales, asegurando una solución sólida para el cliente.
+            AlojaDirecto fue un proyecto en el que puse en práctica mis
+            habilidades fullstack desarrollando una aplicación para gestionar
+            reservas y habitaciones de hoteles. Me encargué del backend en
+            Laravel y del frontend con Vue.js, buscando siempre optimizar la
+            experiencia del usuario y garantizar un flujo sencillo para la
+            gestión diaria. Implementé funcionalidades claves como control de
+            disponibilidad, facturación y servicios adicionales, asegurando una
+            solución sólida para el cliente.
             <div className="mt-6 flex flex-wrap gap-3">
               {[
                 "Laravel",
@@ -109,13 +133,20 @@ const Experience = () => {
             </h2>
             <div className="flex justify-between items-center text-white text-sm mt-1">
               <p className="font-semibold">Freelance (Proyecto Familiar)</p>
-              <p className="italic text-sm font-light">Enero 2025 - Actualidad</p>
+              <p className="italic text-sm font-light">
+                Enero 2025 - Actualidad
+              </p>
             </div>
           </header>
           <div className="bg-[#12131a] rounded-b-lg px-6 py-5 text-white text-base leading-relaxed">
-            Actualmente, desarrollo Atalanta, una plataforma para comercializar paquetes turísticos que ayuda a mi familia a lanzar su negocio con una solución tecnológica robusta y atractiva.
-            Trabajo con Laravel en el backend, con una API RESTful segura gracias a JWT, y un frontend en React que asegura una experiencia fluida y adaptable para cualquier dispositivo.
-            Además, cuido el diseño y la usabilidad con Bootstrap y CSS, buscando siempre un equilibrio entre funcionalidad y estética.
+            Actualmente, desarrollo Atalanta, una plataforma para comercializar
+            paquetes turísticos que ayuda a mi familia a lanzar su negocio con
+            una solución tecnológica robusta y atractiva. Trabajo con Laravel en
+            el backend, con una API RESTful segura gracias a JWT, y un frontend
+            en React que asegura una experiencia fluida y adaptable para
+            cualquier dispositivo. Además, cuido el diseño y la usabilidad con
+            Bootstrap y CSS, buscando siempre un equilibrio entre funcionalidad
+            y estética.
             <div className="mt-6 flex flex-wrap gap-3">
               {[
                 "PHP",

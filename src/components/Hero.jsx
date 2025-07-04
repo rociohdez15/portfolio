@@ -35,7 +35,7 @@ const Hero = () => {
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white flex flex-col justify-center items-center px-6 sm:px-12">
         {/* Saludo personalizado */}
         <p className="text-center text-lg mb-8 tracking-wide font-semibold">
-          ¡Hola! Soy <span className="text-pink-civitatis font-bold">Rocío Hernández Silva</span>{" "}
+          ¡Hola! Soy <span className="text-pink-civitatis font-bold">Rocío, bienvenido/a a mi portfolio.</span>{" "}
           <span role="img" aria-label="rock hand" className="animate-pulse">
             🤘
           </span>

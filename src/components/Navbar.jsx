@@ -41,7 +41,7 @@ const Navbar = ({ projectsRef, experienceRef, skillsRef, aboutMeRef, contactRef 
               setIsOpen(false);
             }}
           >
-            Rocío - Portfolio
+            Rocío Hernández Silva
           </div>
 
           {/* Botón hamburguesa solo en móvil */}
