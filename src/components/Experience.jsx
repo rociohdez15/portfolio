@@ -85,7 +85,7 @@ const Experience = () => {
                   rel="noopener noreferrer"
                   className="text-pink-civitatis hover:underline text-xs mt-1"
                 >
-                  Ver proyecto
+                  Visualizar proyecto
                 </a>
               </div>
               <p className="italic text-sm font-light">
